@@ -6,9 +6,9 @@
     <script type="text/javascript" src="js/script.js"></script>
 <?php require_once "menu.php" ?>
         	<div id="slide-container">
-            	<div><a href="empresa.php"><img src="images/slide/banner1.png"></a></div>
-        		<div><a href="jardinagem.php"><img src="images/slide/banner2.png"></a></div>
-                <div><a href="iluminacao.php"><img src="images/slide/banner3.png"></a></div>          
+            	<div><a href="empresa.php"><img src="images/slide/banner1.jpg"></a></div>
+        		<div><a href="jardinagem.php"><img src="images/slide/banner2.jpg"></a></div>
+                <div><a href="iluminacao.php"><img src="images/slide/banner3.jpg"></a></div>          
             </div>
             <div id="content-articles-container">
             	<a href="1">

@@ -8,13 +8,13 @@
                 </form>
                 <div class="clear"></div>
                 <a href="http://www.facebook.com.br" target="_blank">
-                	<img src="images/icon_facebook.png" alt="Facebook Arena Piscinas" class="bt-social">
+                	<img src="images/icon_facebook.jpg" alt="Facebook Arena Piscinas" class="bt-social">
                 </a>
                 <a href="http://www.instagram.com" target="_blank">
-                	<img src="images/icon_instagram.png" alt="Instagram Arena Piscinas" class="bt-social">
+                	<img src="images/icon_instagram.jpg" alt="Instagram Arena Piscinas" class="bt-social">
                 </a>
                 <a href="http://www.facebook.com.br" target="_blank">
-                	<img src="images/icon_twitter.png" alt="Twitter Arena Piscinas" class="bt-social-ultimo">
+                	<img src="images/icon_twitter.jpg" alt="Twitter Arena Piscinas" class="bt-social-ultimo">
                 </a>
             </div>
             <div id="footer-box-dados">
@@ -43,7 +43,7 @@
             </div>
             <div id="footer-box-parceiros">
             	<h1>Parceiros</h1>
-                <img src="images/img_parceiros.png">
+                <img src="images/img_parceiros.jpg">
             </div>
         </footer>
         &nbsp;
