@@ -1,0 +1,473 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+/* RESET CSS*/
+*{
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+	list-style:none;
+	text-decoration:none;
+}
+/* RESET CSS*/
+
+/* INICIO CSS PADRÃO ALL PAGES*/
+
+.clear {
+	clear:both;
+}
+body {
+	font-family: 'Droid Serif', serif;
+	margin: 0px;
+}
+#centralizaSite {
+	width: 1024px;
+	margin: auto;
+}
+#header-container {
+	width: 1023px;
+	height: 205px;
+}
+#header-container a .logo {
+	width: 180px;
+	height: 149px;
+	margin-left: 25px;
+	margin-top: 10px;
+	float:left;
+}
+#header-container #social-container{
+	width: 165px;
+	height: 85px;
+	position: absolute;
+	left: 1025px;
+	top: 70px;
+}
+#header-container #social-container a:hover {
+	opacity: 0.60;
+	filter: alpha(opacity=60);
+}
+#header-container #social-container .bt-social{
+	padding-top: 50px;
+	padding-right: 20px;
+	border:0px;
+	text-decoration:none;
+}
+#header-container #social-container .bt-social-ultimo{
+	padding-right: 0px;
+}
+
+#top-menu ul {
+	padding: 0px;
+	margin: 0px;
+	background-color:#0386B3;
+	position:absolute;
+	top: 167px;
+	width: 1023px;
+	text-align:left;
+	float:left;
+}
+#top-menu ul li {
+	display: inline;
+}
+#top-menu ul li a {
+	padding: 6px 12px;
+	display: inline-block;
+	color: #FFF;	
+	border-bottom: 3px solid #0386B3;	
+}
+#top-menu ul li a:hover {
+	color:#CCC;
+	border-bottom: 3px solid #CCC;
+}
+#content-container{
+	width: 1023px;
+	height: auto;
+}
+#footer-container{
+	width: 1023px;
+	height: 185px;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	border-top: 1px dotted #B9B9C8;
+}
+#footer-container h1{
+	font-size: 20px;
+	color: #0386B3;
+}
+#footer-container h2{
+	font-size: 12px;
+	color: #0386B3;
+}		
+#footer-box-newsletter{
+	width: 315px;
+	height: 174px;
+	float: left;
+	border-right: 1px dotted #B9B9C8;
+	padding-left: 29px;
+	padding-top: 20px;
+}
+#cad-email {
+	margin-top: 10px;
+	width: 170px;
+	height: 24px;
+	border: 1px solid #0386B3;
+	border-radius: 5px 0px 0px 5px;
+	padding-left: 5px;
+	float:left;
+	font-size: 12px;
+	color: #0386B3;
+}
+#bt-cad-email {
+	height: 25 px;
+	margin-top: 10px;
+	padding: 4px 15px 4px 15px;
+	background-color: #0386B3;
+	color: #FFF;
+	font-size:16px;
+	border-radius: 0px 5px 5px 0px;
+	float:left;
+}
+#footer-box-newsletter img{
+	margin: 30px 15px 0px 0px;
+}
+#footer-box-newsletter a:hover{
+	opacity: 0.60;
+	filter: alpha(opacity=60);
+}
+#footer-box-dados{
+	width: 400px;
+	height: 174px;
+	float: left;
+	border-right: 1px dotted #B9B9C8;
+	padding: 20px 15px 0px 15px;
+}
+#footer-box-dados #col1{
+	width: 165px;
+	height: 174px;
+	float:left;
+}
+#footer-box-dados #col2{
+	width: 195px;
+	height: 109px;
+	float:left;
+	background-image:url(../images/bar_contatos.png);
+	background-repeat:no-repeat;
+	background-position: 5px 60px;
+	padding-left: 40px;
+	padding-top: 65px;
+}
+#footer-box-parceiros{
+	width: 247px;
+	height: 194px;
+	float: left;
+	padding-top: 20px;
+	text-align:center;
+}
+#footer-box-parceiros img {
+	margin-top: 20px;
+}
+/* FIM CSS PADRÃO ALL PAGES*/
+
+/* INICIO CSS INDEX.PHP */
+
+#slide-container {
+	width:1020px;
+	height: 300px;
+	margin: auto;
+	margin-top: 25px;
+}
+#content-articles-container {
+	width: 706px;
+	height: 410px;
+	float: left;
+	padding: 25px 51px 0px 18px;
+}
+.bt-content-destaque {
+	width: 180px;
+	height: 153px;
+	border-radius: 10px;
+	background-color:#0386B3;
+	float: left;
+	padding-top: 27px;
+}
+.bt-content-destaque img{
+	width: 180px;
+	height: 123px;
+	position:absolute;
+	z-index: 1;
+}
+.bt-content-destaque-texto{
+	width: 180px;
+	height: 123px;
+	background-image:url(../images/bk_bt_destaque.png);
+	background-repeat:repeat-x;
+	visibility:hidden;
+	position:absolute;
+	z-index: 2;
+	display:table;
+}
+.bt-content-destaque-texto span{
+	padding: 0px 4px 0px 4px;
+	font-size: 15px;
+	color: #fff;
+	display:table-cell;
+	text-align: center;
+	vertical-align:middle;	
+}
+a:hover .bt-content-destaque .bt-content-destaque-texto{
+	visibility:visible;
+}
+.bt-content-destaque-title{
+	text-align:center;
+	color: #FFF;
+	margin-top: 125px;
+	font-size: 20px;
+}
+#content-articles-container .space {
+	width:83px;
+	height: 180px;
+	float:left;
+}
+#content-instrucoes-container{
+	width: 708px;
+	height: 128px;
+	background-color: #0386B3;
+	float: left;
+	margin-top: 50px;
+	padding-top: 10px;
+}
+.content-instrucoes-box{
+	width: 235px;
+	height: 118px;
+	border-right: 1px dotted #FFF;
+	float:left;
+	text-align: center;
+}
+.content-instrucoes-box-ultima{
+	width: 236px;
+	height: 118px;
+	float:left;
+	text-align: center;
+}
+.content-intrucoes-box-txt {
+	height: 95px;
+	width: auto;
+}
+#content-instrucoes-container h1 {
+	font-size: 16px;
+	color:#FFF; 
+}
+#content-instrucoes-container h2 {
+	margin: 0px 20px 0px 20px;
+	font-size: 12px;
+	color:#FFF;
+	margin-top: 5px; 
+}
+#content-instrucoes-container a{
+	width: 100px;
+	height: 22px;
+	background-color: #FFF;
+	margin: auto;
+	padding: 4px 10px 4px 10px;
+	color: #0386B3;
+	position: relative;
+}
+#content-instrucoes-container a:hover{
+	text-decoration:underline;
+}
+#content-dicas-container {
+	width: 248px;
+	height: 408px;
+	padding: 27px 0px 0px 0px;
+	float:left;
+}
+#col-right-dicas {
+	width: 248px;
+	height: 406px;
+	border-left: 1px dotted #B9B9C8;
+	text-align:center;
+}
+#dicas-header{
+	width: 180px;
+	margin:auto;
+	padding: 10px 0px 10px 0px;
+	color: #FFF;
+	font-size: 15px;
+	background-color: #0386B3;
+}
+#col-right-dicas .space {
+	width: 180px;
+	height: 10px;
+	margin: 10px auto;
+}
+.box-dicas{
+	background: url(../images/icon_flecha.png) no-repeat;	
+	background-position: 0px 2px;
+	margin: auto;
+	text-align:left;
+	width: 180px;
+	padding-bottom: 10px;
+}
+#col-right-dicas h1 {
+	margin-left: 25px;
+	color: #0386B3;
+	font-size: 14px;
+}
+#col-right-dicas h2 {
+	color: #0386B3;
+	font-size: 11px;
+	margin-top: 10px;
+	float:left;
+}
+.box-dicas a{
+	color: #fff;
+	font-size: 11px;
+	padding: 3px 5px 3px 5px;
+	background-color: #0386B3;
+	float:right;
+}
+.box-dicas a:hover{
+	color: #0386B3;
+	padding: 2px 5px 2px 5px;
+	background-color: #FFF;
+	border: 1px solid #0386B3;
+}
+/* FIM CSS INDEX.PHP */
+
+/* INICIO CSS PAGES.PHP */
+#box-text-page {
+	width: 620px;
+	height: auto;
+	padding-left: 20px;
+	text-align:justify;
+	float: left;;
+}
+#box-text-page h1{
+	font-size: 30px;
+	color: #fff;
+	background-color: #0386B3;
+	width: 250px;
+	text-align:center;
+	padding: 10px 0px 10px 0px;
+	margin: 10px 0px 25px 0px;
+}
+#box-text-page h2{
+	font-size: 15px;
+	color: #0386B3;
+}
+#box-img-page {
+	width: 303px;
+	height: auto;
+	float: left;
+	padding: 80px 30px 0px 50px;
+}
+#box-img-page .space {
+	width: 40px;
+	height: 91px;
+	float: left;
+}
+.img-6g {
+	width: 122px;
+	height: 91px;
+	border: 1px solid #0386B3;
+	-webkit-transform: rotate(-6deg);
+	-moz-transform: rotate(-6deg); 
+	-o-transform: rotate(-6deg);
+	float:left;
+	margin-top: 30px; 
+}
+.img-5g {
+	width: 122px;
+	height: 91px;
+	border: 1px solid #0386B3;
+	-webkit-transform: rotate(5deg);
+	-moz-transform: rotate(5deg); 
+	-o-transform: rotate(5deg);
+	float:left;
+	margin-top: 30px;  
+}
+.img-norotate {
+	width: 122px;
+	height: 91px;
+	float:left;
+	margin-top: 30px; 
+	border: 1px solid #0386B3; 
+}
+#box-img-page img{
+	width: 116px;
+	height: 85px;
+	margin-left: 3px;
+	margin-top: 3px;
+}
+/* FIM CSS PAGES.PHP */
+
+/* INICIO CSS PRODUTOS */
+#container-menu-prod {
+	padding: 25px 0px 0px 1px;
+	margin-bottom: 20px;
+}
+.bt-menu-prod{
+	float: left;
+	width: 150px;
+	background-color: #0386B3;
+	height: 30px;
+	padding-top: 10px;
+	margin-right: 24px;
+	text-align: center;
+	color: #FFF;
+}
+.bt-menu-prod-ultimo{
+	float: left;
+	width: 150px;
+	background-color: #0386B3;
+	height: 30px;
+	padding-top: 10px;
+	text-align: center;
+	color: #FFF;
+}
+#loading {
+	margin-left: 370px;
+	margin-top: 150px;
+	margin-bottom: 83px;
+}
+/* FIM CSS PRODUTOS */
+
+/* INICIO PAGE CONTATO */
+#form-contato{
+	padding-left: 10px;
+}
+#form-contato p {
+	float:left;
+	font-size: 15px;
+	color: #0386B3;
+	font-weight:bold;
+}
+#form-contato input {
+	width: 170px;
+	height: 24px;
+	border: 1px solid #0386B3;
+	font-size: 12px;
+	color: #0386B3;
+	float:left;
+	padding-left: 5px;
+	margin-top: 5px;
+}
+#form-contato textarea {
+	width: 300px;
+	height: 250px;
+	border: 1px solid #0386B3;
+	font-size: 12px;
+	color: #0386B3;
+	float:left;
+	padding-left: 5px;
+	margin-top: 5px;
+	resize: none;
+}
+#form-contato button {
+	height: 25 px;
+	margin-top: 10px;
+	padding: 4px 15px 4px 15px;
+	background-color: #0386B3;
+	color: #FFF;
+	font-size:16px;
+}
