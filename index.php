@@ -1,8 +1,8 @@
 <?php require_once "header.php" ?>
-<link rel="stylesheet" type="text/css" href="puglins/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="plugins/slick/slick.css"/>
      <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="puglins/slick/slick.min.js"></script>
+    <script type="text/javascript" src="plugins/slick/slick.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 <?php require_once "menu.php" ?>
         	<div id="slide-container">
@@ -11,7 +11,7 @@
                 <div><a href="iluminacao.php"><img src="images/slide/banner3.jpg"></a></div>          
             </div>
             <div id="content-articles-container">
-            	<a href="1">
+            	<a href="acessorios.php">
                     <div class="bt-content-destaque">
                         <img src="images/bt_acessorios.jpg">
                         <div class="bt-content-destaque-texto">
@@ -28,7 +28,7 @@
                 </a>
                 <div class="space">
                 </div>
-                <a href="2">
+                <a href="saunas.php">
                     <div class="bt-content-destaque">
                         <img src="images/bt_sauna.jpg">
                         <div class="bt-content-destaque-texto">
@@ -43,7 +43,7 @@
                 </a>
                 <div class="space">
                 </div>
-                <a href="3">
+                <a href="jardinagem.php">
                     <div class="bt-content-destaque">
                         <img src="images/bt_jardinagem.jpg">
                         <div class="bt-content-destaque-texto">
@@ -78,7 +78,7 @@
                     <div class="content-instrucoes-box-ultima">
                     	<div class="content-intrucoes-box-txt">
                             <h1>A empresa</h1>
-                            <h2>A 19 anos no mercado, a Arena Piscinas busca sempre encontrar soluções inovadoras para seus clientes.</h2>
+                            <h2>Ha 19 anos no mercado, a Arena Piscinas busca sempre encontrar soluções inovadoras para seus clientes.</h2>
                         </div>
                         <a href="#">
                             Saiba mais

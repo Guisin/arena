@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".scrutinizer.yml" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559691600000000" Dst="1" />
+<file name=".travis.yml" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559691600000000" Dst="1" />
+<file name="changelog.md" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559691600000000" Dst="1" />
+<file name="class.phpmailer.php" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559691600000000" Dst="1" />
+<file name="class.pop3.php" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559691600000000" Dst="1" />
+<file name="class.smtp.php" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130559757767344000" remote="130559691600000000" Dst="1" />
+<file name="composer.json" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559691600000000" Dst="1" />
+<file name="LICENSE" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559692200000000" Dst="1" />
+<file name="PHPMailerAutoload.php" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559692200000000" Dst="1" />
+<file name="README.md" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559692200000000" Dst="1" />
+<file name="travis.phpunit.xml.dist" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130548928140000000" remote="130559692200000000" Dst="1" />
+</dwsync>

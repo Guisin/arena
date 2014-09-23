@@ -25,7 +25,7 @@
                         Rua dois Coqueiros, 152<br>
                         Loja 02 <br>                  
                         Pereque<br>
-                        Ilha Bela - SP <br>
+                        Ilhabela - SP <br>
                         CEP: 12030-110 <br><br>
                         Seg a Sexta - 09h as 18h<br>
                         Sab - 09h as 13h

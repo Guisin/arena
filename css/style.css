@@ -340,7 +340,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	height: auto;
 	padding-left: 20px;
 	text-align:justify;
-	float: left;;
+	float: left;
 }
 #box-text-page h1{
 	font-size: 30px;
@@ -432,15 +432,52 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 }
 /* FIM CSS PRODUTOS */
 
+
 /* INICIO PAGE CONTATO */
+#box-form-contato {
+	width: 500px;
+	height: auto;
+	padding-left: 20px;
+	padding-right: 50px;
+	text-align:justify;
+	float: left;
+}
+#box-form-contato h1{
+	font-size: 30px;
+	color: #fff;
+	background-color: #0386B3;
+	width: 250px;
+	text-align:center;
+	padding: 10px 0px 10px 0px;
+	margin: 10px 0px 25px 0px;
+}
+#box-data-contato {
+	background-image:url(../images/bar_contatos_2.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 280px;
+	width: 303px;
+	height: auto;
+	float: left;
+	padding: 80px 30px 0px 50px;
+}
+#box-data-contato p {
+float: left;
+font-size: 15px;
+color: #0386B3;
+font-weight: bold;
+}
+#box-form-contato .title{
+font-size: 15px;
+color: #0386B3;
+font-weight: bold;
+display:block;
+margin-top: 5px;
+}
+.error { float: none; color: red; margin: 5px 5px 0px 0px; font-size: 10px;}
+p { clear: both; }
+em { font-weight: bold; padding-right: 1em; vertical-align: top; }
 #form-contato{
 	padding-left: 10px;
-}
-#form-contato p {
-	float:left;
-	font-size: 15px;
-	color: #0386B3;
-	font-weight:bold;
 }
 #form-contato input {
 	width: 170px;
@@ -471,3 +508,5 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	color: #FFF;
 	font-size:16px;
 }
+
+
