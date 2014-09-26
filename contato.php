@@ -2,23 +2,24 @@
 	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
     <script type="text/javascript" src="js/valida_form.js"></script>
+<?php require_once "menu.php" ?>
 <?php
 	
 	if($_GET){		
 		if($_GET['env'] =='True'){
-			require_once 'function/function.php';
-			if(sendMail($_POST['nome'], $_POST['email'], $_POST['mensagem'])){
-				echo 'Mensagem enviada';
-			}else{
-				echo 'Mensagem não enviada';
-			}
-		}
-	}
-	
-	
-?>
-<?php require_once "menu.php" ?>
+			require_once 'function/function.php'; ?>
 			<div id="box-form-contato">
+            <?php
+				if(sendMail($_POST['nome'], $_POST['email'], $_POST['mensagem'])){
+				echo '<br><br><br><br><br><img class="img-envio" src="images/icone_de_correio_eletronico_email.jpg" alt="Email enviado"><p class="msg-status-envio">Sua mensagem foi enviada, assim que possivel retornaremos. <br> Muito Obrigado.</p><br><br> <a class="bt-voltar" href="contato.php">Voltar</a>';
+				}else{
+				echo '<br><br><br><br><br><img class="img-envio" src="images/icone_de_correio_eletronico_email_erro.jpg" alt="Email não enviado"><p class="msg-status-envio">Sua mensagem não pode ser enviada, tente novamente.<br> Caso o problema persista entre em contato através de um de nossos telefones, ou aguarde alguns minutos e tente novamente.</p> <br><br> <a class="bt-voltar" href="contato.php">Voltar</a>';
+				} ?>
+			</div> 
+	<?php	}
+	}else{
+	?>
+	<div id="box-form-contato">
            	  <h1>Contato</h1>
             	<form id="form-contato" method="post" action="contato.php?env=True">
                 	<label class="title">Nome*</label>
@@ -40,7 +41,11 @@
                     <button>Enviar</button>
                 </form>
             </div>  
-            <div id="box-data-contato">
+                 
+<?php
+	}
+?>
+<div id="box-data-contato">
             	<div id="col1">
                 	<br>
                     <p>Arena Piscinas</p>
@@ -56,6 +61,8 @@
                         (12) 7978-2323<br>
                         96* 24242<br><br>
                         contato@arenapiscinas.com.br
-                    </p>            
-<?php include_once "footer.php"?>
+                    </p>
+                 </div>
+             </div>    
+<?php include_once "footer.php" ?>
 

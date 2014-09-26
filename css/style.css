@@ -473,9 +473,12 @@ font-weight: bold;
 display:block;
 margin-top: 5px;
 }
+/*PERSONALIZACAO VALIDATE FORM JQUERY*/
 .error { float: none; color: red; margin: 5px 5px 0px 0px; font-size: 10px;}
 p { clear: both; }
 em { font-weight: bold; padding-right: 1em; vertical-align: top; }
+/*FIM PERSONALIZACAO VALIDATE FORM JQUERY*/
+
 #form-contato{
 	padding-left: 10px;
 }
@@ -507,6 +510,23 @@ em { font-weight: bold; padding-right: 1em; vertical-align: top; }
 	background-color: #0386B3;
 	color: #FFF;
 	font-size:16px;
+}
+.msg-status-envio {
+font-size: 15px;
+color: #0386B3;
+font-weight: bold;	
+}
+.img-envio {
+	margin: auto;
+}
+.bt-voltar {
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	background-color: #0386B3;
+	color: #fff;
+}
+.bt-voltar:hover {
+	text-decoration:underline;
 }
 
 
