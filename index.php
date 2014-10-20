@@ -4,6 +4,8 @@
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="plugins/slick/slick.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
+    <script type="text/javascript" src="js/valida_form.js"></script>
 <?php require_once "menu.php" ?>
         	<div id="slide-container">
             	<div><a href="empresa.php"><img src="images/slide/banner1.jpg"></a></div>
@@ -62,7 +64,7 @@
                             <h1>Orçamento</h1>
                             <h2>Aproveite ao maximo sua piscina, solicite agora mesmo um orçamento.</h2>
                         </div>
-                        <a href="#">
+                        <a href="contato.php">
                             Solicitar
                         </a>    
                     </div>
@@ -71,7 +73,7 @@
                             <h1>Como chegar</h1>
                             <h2>Veja como chegar a nossa loja e não deixe de nos fazer uma visita.</h2>
                         </div>
-                        <a href="#">
+                        <a href="localizacao.php">
                             Como chegar
                         </a>    
                     </div>
@@ -80,7 +82,7 @@
                             <h1>A empresa</h1>
                             <h2>Ha 19 anos no mercado, a Arena Piscinas busca sempre encontrar soluções inovadoras para seus clientes.</h2>
                         </div>
-                        <a href="#">
+                        <a href="empresa.php">
                             Saiba mais
                         </a>    
                     </div>

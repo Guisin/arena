@@ -74,8 +74,8 @@ body {
 	border-bottom: 3px solid #0386B3;	
 }
 #top-menu ul li a:hover {
-	color:#CCC;
-	border-bottom: 3px solid #CCC;
+	color:#036;
+	border-bottom: 3px solid #036;
 }
 #content-container{
 	width: 1023px;
@@ -405,6 +405,9 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 #container-menu-prod {
 	padding: 25px 0px 0px 1px;
 	margin-bottom: 20px;
+}
+#container-menu-prod a:hover {
+	text-decoration: underline;
 }
 .bt-menu-prod{
 	float: left;

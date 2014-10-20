@@ -39,4 +39,26 @@
 <file name="servicos.php" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130550048897693645" remote="130558558200000000" Dst="1" />
 <file name="limpeza.php" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130550048897283604" remote="130558561800000000" Dst="1" />
 <file name="error_log" server="laguadalupe.net.br/public_html/arenapiscinas/" local="130559694000000000" remote="130559694000000000" Dst="1" />
+<file name=".ftpquota" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130582890000000000" remote="130582890000000000" Dst="2" />
+<file name="acessorios.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="aquecedores.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="banner.html" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130559719410000000" remote="130582905600000000" Dst="-1" />
+<file name="contato.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130583057952259238" remote="130582980600000000" Dst="2" />
+<file name="empresa.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="error_log" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130559694000000000" remote="130582905600000000" Dst="-1" />
+<file name="favicon.ico" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="header.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130559748910000000" remote="130582905600000000" Dst="-1" />
+<file name="iluminacao.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="index_padrao.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="jardinagem.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="limpeza.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="menu.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130583078095693606" remote="130582980600000000" Dst="2" />
+<file name="menu_prod.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="produtos.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="saunas.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name="servicos.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048890000000" remote="130582905600000000" Dst="-1" />
+<file name=".gitattributes" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130550048893273203" remote="130582911600000000" Dst="2" />
+<file name="footer.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130583058488519096" remote="130582980600000000" Dst="2" />
+<file name="index.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130582970544168831" remote="130582911600000000" Dst="2" />
+<file name="localizacao.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130582972035248831" remote="130582911600000000" Dst="2" />
 </dwsync>

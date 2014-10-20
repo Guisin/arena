@@ -13,7 +13,7 @@
                 celular:{
                     minlength: 8
                 },
-                informacao:{
+                mensagem:{
                     required: true, minlengt: 2
                 }
             },
@@ -32,7 +32,7 @@
                 celular:{
                     minlength: "Digite um celular valido"
                 },
-                informacao:{
+                mensagem:{
                     required: "Digite sua duvida, sugestão ou solicitação.",
                     minlength: "O texto deve conter, no mínimo 2 caracteres"
                 },

@@ -51,13 +51,13 @@
                     <p>Arena Piscinas</p>
                     <br><br>
                     <p>
-                        Rua dois Coqueiros, 152 - Loja 02 <br>                  
+                        Rua Dois Coqueiros, 256<br>                  
                         Pereque<br>
                         Ilhabela - SP <br>
-                        CEP: 12030-110 <br><br>
+                        CEP: 11630-000 <br><br>
                         Seg a Sexta - 09h as 18h<br>
                         Sab - 09h as 13h <br><br>                        
-                       	(12) 3632-7731<br><br>                      
+                       	(12) 3896-6968<br><br>                      
                         (12) 7978-2323<br>
                         96* 24242<br><br>
                         contato@arenapiscinas.com.br
