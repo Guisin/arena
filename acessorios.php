@@ -29,7 +29,7 @@
                     <div class="space"></div>
                     <a href="#">
                         <div class="img-6g">
-                            <img src="images/acessorios2.png" alt="Acessórios e produtos para piscinas" title="Acessórios">
+                            <img src="images/acessorios2.jpg" alt="Acessórios e produtos para piscinas" title="Acessórios">
                         </div>
                     </a>
                     <a href="#">
@@ -57,4 +57,5 @@
                 </div>
             </div>       	
 <?php include_once "footer.php"?>
-
+</body>
+</html>

@@ -3,9 +3,6 @@
     <meta name="keywords" content="Piscina, Ilhabela, Serviços, Produtos" />
     <meta name="author" content="Arena Piscinas" />
 	<title>Contato - Arena Piscinas</title>
-	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
-    <script type="text/javascript" src="js/valida_form.js"></script>
 <?php require_once "menu.php" ?>
 <?php
 	
@@ -69,5 +66,9 @@
                     </p>
                  </div>
              </div>    
-<?php include_once "footer.php" ?>
-
+<?php include_once "footer.php"?>
+	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
+    <script type="text/javascript" src="js/valida_form.js"></script>
+</body>
+</html>

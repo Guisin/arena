@@ -3,13 +3,6 @@
 <meta name="keywords" content="Piscina, Ilhabela, Serviços, Produtos" />
 <meta name="author" content="Arena Piscinas" />
 <title>Arena Piscinas - Tudo para sua piscina, sauna e banheira em Ilhabela.</title>
-	<link rel="stylesheet" type="text/css" href="plugins/slick/slick.css"/>
-     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="plugins/slick/slick.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
-    <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
-    <script type="text/javascript" src="js/valida_form.js"></script>
 <?php require_once "menu.php" ?>
         	<div id="slide-container">
             	<div><a href="empresa.php"><img src="images/slide/banner1.jpg"></a></div>
@@ -117,3 +110,12 @@
                 </div>
             </div>
 <?php include_once "footer.php"?>
+	<link rel="stylesheet" type="text/css" href="plugins/slick/slick.css"/>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="plugins/slick/slick.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
+    <script type="text/javascript" src="js/valida_form.js"></script>
+</body>
+</html>
