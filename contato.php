@@ -1,4 +1,8 @@
 <?php require_once "header.php" ?>
+    <meta name="description" content="Envie um e-mail para Arena Piscinas ou entre em contato através do nosso telefone (12) 3896-6968. Arena Piscinas Ilhabela" />
+    <meta name="keywords" content="Piscina, Ilhabela, Serviços, Produtos" />
+    <meta name="author" content="Arena Piscinas" />
+	<title>Contato - Arena Piscinas</title>
 	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="js/validate/jquery.validate.js"></script>
     <script type="text/javascript" src="js/valida_form.js"></script>
@@ -51,8 +55,9 @@
                     <p>Arena Piscinas</p>
                     <br><br>
                     <p>
-                        Rua Dois Coqueiros, 256<br>                  
-                        Pereque<br>
+                        Rua Dois Coqueiros, 256<br>
+                        Sala 05 <br>                  
+                        Perequê<br>
                         Ilhabela - SP <br>
                         CEP: 11630-000 <br><br>
                         Seg a Sexta - 09h as 18h<br>

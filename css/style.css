@@ -34,10 +34,10 @@ body {
 	float:left;
 }
 #header-container #social-container{
-	width: 165px;
+	width: 300px;
 	height: 85px;
 	position: absolute;
-	left: 1025px;
+	left: 960px;
 	top: 70px;
 }
 #header-container #social-container a:hover {
@@ -85,16 +85,17 @@ body {
 	width: 1023px;
 	height: 185px;
 	float: left;
-	margin-top: 20px;
+	margin-top: 40px;
 	margin-bottom: 20px;
 	padding-top: 20px;
 	border-top: 1px dotted #B9B9C8;
 }
-#footer-container h1{
+#footer-container .title-footer{
 	font-size: 20px;
 	color: #0386B3;
+	font-weight:bolder;
 }
-#footer-container h2{
+#footer-container .text-footer{
 	font-size: 12px;
 	color: #0386B3;
 }		
@@ -105,27 +106,6 @@ body {
 	border-right: 1px dotted #B9B9C8;
 	padding-left: 29px;
 	padding-top: 20px;
-}
-#cad-email {
-	margin-top: 10px;
-	width: 170px;
-	height: 24px;
-	border: 1px solid #0386B3;
-	border-radius: 5px 0px 0px 5px;
-	padding-left: 5px;
-	float:left;
-	font-size: 12px;
-	color: #0386B3;
-}
-#bt-cad-email {
-	height: 25 px;
-	margin-top: 10px;
-	padding: 4px 15px 4px 15px;
-	background-color: #0386B3;
-	color: #FFF;
-	font-size:16px;
-	border-radius: 0px 5px 5px 0px;
-	float:left;
 }
 #footer-box-newsletter img{
 	margin: 30px 15px 0px 0px;
@@ -253,15 +233,17 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	height: 95px;
 	width: auto;
 }
-#content-instrucoes-container h1 {
+#content-instrucoes-container .title-box {
 	font-size: 16px;
-	color:#FFF; 
+	color:#FFF;
+	font-weight:bolder;
 }
-#content-instrucoes-container h2 {
+#content-instrucoes-container .text-box {
 	margin: 0px 20px 0px 20px;
 	font-size: 12px;
 	color:#FFF;
-	margin-top: 5px; 
+	margin-top: 5px; 	
+	font-weight:bolder;
 }
 #content-instrucoes-container a{
 	width: 100px;
@@ -308,16 +290,18 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	width: 180px;
 	padding-bottom: 10px;
 }
-#col-right-dicas h1 {
+#col-right-dicas .title-dicas{
 	margin-left: 25px;
 	color: #0386B3;
 	font-size: 14px;
+	font-weight:bolder;
 }
-#col-right-dicas h2 {
+#col-right-dicas .text-dicas {
 	color: #0386B3;
 	font-size: 11px;
 	margin-top: 10px;
 	float:left;
+	font-weight:bolder;
 }
 .box-dicas a{
 	color: #fff;
@@ -336,7 +320,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 
 /* INICIO CSS PAGES.PHP */
 #box-text-page {
-	width: 620px;
+	width: 550px;
 	height: auto;
 	padding-left: 20px;
 	text-align:justify;
@@ -351,7 +335,8 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	padding: 10px 0px 10px 0px;
 	margin: 10px 0px 25px 0px;
 }
-#box-text-page h2{
+#box-text-page p {
+	text-indent: 30px;
 	font-size: 15px;
 	color: #0386B3;
 }
@@ -359,7 +344,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	width: 303px;
 	height: auto;
 	float: left;
-	padding: 80px 30px 0px 50px;
+	padding: 80px 30px 0px 100px;
 }
 #box-img-page .space {
 	width: 40px;
@@ -369,7 +354,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 .img-6g {
 	width: 122px;
 	height: 91px;
-	border: 1px solid #0386B3;
+	border: 2px solid #0386B3;
 	-webkit-transform: rotate(-6deg);
 	-moz-transform: rotate(-6deg); 
 	-o-transform: rotate(-6deg);
@@ -379,7 +364,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 .img-5g {
 	width: 122px;
 	height: 91px;
-	border: 1px solid #0386B3;
+	border: 2px solid #0386B3;
 	-webkit-transform: rotate(5deg);
 	-moz-transform: rotate(5deg); 
 	-o-transform: rotate(5deg);
@@ -391,7 +376,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 	height: 91px;
 	float:left;
 	margin-top: 30px; 
-	border: 1px solid #0386B3; 
+	border: 2px solid #0386B3; 
 }
 #box-img-page img{
 	width: 116px;
@@ -457,7 +442,7 @@ a:hover .bt-content-destaque .bt-content-destaque-texto{
 #box-data-contato {
 	background-image:url(../images/bar_contatos_2.jpg);
 	background-repeat:no-repeat;
-	background-position: 0px 280px;
+	background-position: 0px 300px;
 	width: 303px;
 	height: auto;
 	float: left;

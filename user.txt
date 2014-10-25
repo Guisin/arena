@@ -22,3 +22,10 @@ senha: guilh3rm3
 google analytics
 
 conta: arenapiscinas
+
+======================================
+
+twitter
+
+user: ArenaPiscinas
+senha: guilh3rme

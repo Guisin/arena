@@ -22,4 +22,15 @@
 <file name="PHPMailerAutoload.php" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130548928140000000" remote="130582905600000000" Dst="-1" />
 <file name="README.md" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130548928140000000" remote="130582905600000000" Dst="-1" />
 <file name="travis.phpunit.xml.dist" server="laguadalupe.net.br/public_html/arenapiscinas.com.br/" local="130548928140000000" remote="130582905600000000" Dst="-1" />
+<file name=".travis.yml" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="changelog.md" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="class.phpmailer.php" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="class.pop3.php" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="class.smtp.php" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130559757767344000" remote="130584598800000000" Dst="2" />
+<file name="composer.json" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="LICENSE" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="PHPMailerAutoload.php" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="README.md" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name="travis.phpunit.xml.dist" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584598800000000" Dst="2" />
+<file name=".scrutinizer.yml" server="ftp.uhserver.com//arenapiscinas.com.br/web/" local="130548928140000000" remote="130584720600000000" Dst="2" />
 </dwsync>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
+
+<url>
+   <loc>http://www.arenapiscinas.com.br/</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/index.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/empresa.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/acessorios.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/servicos.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/contato.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/jardinagem.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/iluminacao.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/saunas.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/localizacao.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/limpeza.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://www.arenapiscinas.com.br/aquecedores.php</loc>
+   <lastmod>2014-10-23T21:32:51+00:00</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.6400</priority>
+</url>
+</urlset>

@@ -13,13 +13,16 @@
     	<header id="header-container">
         	<a href="index.php"><img src="images/logo_arenapiscinas.jpg" alt="Arena Piscinas" class="logo"></a>
             <div id="social-container">
-            	<a href="http://www.facebook.com.br" target="_blank">
+            	<a href="https://pt-br.facebook.com/toni.piscinas" target="_blank">
                 	<img src="images/icon_facebook.jpg" alt="Facebook Arena Piscinas" class="bt-social">
                 </a>
-                <a href="http://www.instagram.com">
+                <a href="https://plus.google.com/104535716445043822094" rel="publisher">
+                	<img src="images/icon_google+.jpg" alt="Google+ Arena Piscinas" class="bt-social">
+                </a>                
+                <a href="http://instagram.com/arenapiscinas" target="_blank">
                 	<img src="images/icon_instagram.jpg" alt="Instagram Arena Piscinas" class="bt-social">
                 </a>
-                <a href="http://www.facebook.com.br" id="ultima">
+                <a href="https://twitter.com/ArenaPiscinas" id="ultima" target="_blank">
                 	<img src="images/icon_twitter.jpg" alt="Twitter Arena Piscinas" class="bt-social-ultimo">
                 </a>
             </div>

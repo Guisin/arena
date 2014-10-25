@@ -7,7 +7,7 @@ function sendMail($nome,$email,$mensagem)
 	$mail->IsHTML(true);
 	$mail->From = $email;
 	$mail->FromName = $nome;
-	$mail->AddAddress('suporte02@automacaodovale.com.br','Arena Piscinas');
+	$mail->AddAddress('contato@arenapiscinas.com.br','Arena Piscinas');
 	$mail->Subject = 'Mensagem - Site';
 	$mail->Body = '<b>Nome:</b> '.$nome.' <br /><br /><b>E-mail:</b> '.$email.' <br /><br /><b>Mensagem:</b> '.$mensagem;
 	if($mail->Send()){
